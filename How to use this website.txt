@@ -1,0 +1,13 @@
+------------About the editor: Sublime Text (ST)-----------
+1. go to https://www.sublimetext.com/  and find a suitable version and download it on your computer.
+2. install ST on your computer. 
+
+
+------------About the files-----------
+1. .html file is where you define the structure of the website.  e.g make a list with bulletpoint. They can be dragged into browser, and you can see how the webpage looks like.
+2. .css file is where you define the visual style of the website. e.g border, font size and so on. 
+3. .js file is where you define the behaviour of the website. e.g when mouse click on a button, what happens.
+4. all these files can be editted in ST.
+
+1. if you want to change any content, hit "ctrl+F", and you'll see the input field on the bottom. type in the old text (just a few words is enough), and hit enter. you'll be lead to the place. 
+
