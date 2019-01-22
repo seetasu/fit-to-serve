@@ -1,6 +1,6 @@
 ------------About the editor: Sublime Text (ST)-----------
 1. go to https://www.sublimetext.com/  and find a suitable version and download it on your computer.
-2. install ST on your computer. 
+2. install ST on your computer. ...
 
 
 ------------About the files-----------
